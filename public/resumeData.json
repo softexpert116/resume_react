@@ -1,0 +1,171 @@
+{
+  "main": {
+    "name": "Phan Tuan",
+    "occupation": "Mobile App Developer",
+    "description1": "- Responsible for implementing new solutions/feature-sets and maintaining existing applications for iOS and Android",
+    "description2": "- Responsible for staying current with the latest changes in the Mobile Development space",
+    "description3": "- Accountable for the successful delivery and implementation of complex enterprise-scale mobile projects involving multiple back-end systems, as well as new technologies/innovations",
+    "description4": "Coordinate coding, testing , implementation, integration and documentation of solution. Develop program specifications",
+    "description5": "Mentor intermediate and senior developers by sharing knowledge of best practices, standards and experiences, while removing roadblocks/challenges",
+    "description6": "Assist others in the use of programming tools to best meet application needs",
+    "description7": "Work with Architecture and other developers as applicable",
+    "image": "profilepic.jpg",
+    "bio": "Senior Mobile Application Developer with around 8 years experience in software development lifecycle (SDLC) including analysis, design, development, and testing, deployment and documentation as per ISO standards. Experience in Mobile Application Operating systems like iOS and Android. Skilled, motivated and product-oriented mobile application developer with strong Object Oriented Programming Concepts and design skills Experience in developing iPhone and iPad apps.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "phanz1956@gmail.com",
+    "phone": "+84082135012",
+    "address": {
+      "street": "425 Dien Bien Phu",
+      "city": "HCM",
+      "state": "Vietnam",
+      "zip": "008428"
+    },
+    "website": "https://phanz1956.web.app/",
+    "resumedownload": "https://drive.google.com/file/d/1YTivfPSUUuTzQnfzeWyubPGCUmXU9lYX/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tuanphandev",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/softexpert116",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Strong verbal communication skills, superior written communication skills, strong interpersonal skills. Experience in roles that required demonstration of excellent communication skills; sharp analytical abilities and proven design skills Strong testing skills and experience in SDLC & testing methodologies like Agile, Waterfall Strong programming skills (Android (Native) development strongly regarded Experience in roles that required strong analytical and problem-solving skills Familiarity with RWD (Responsive Web Design) Development Experience with RESTFUL webservices Excellent Written and Oral Commutation Skills ",
+    "education": [
+      {
+        "school": "University of HCM",
+        "degree": "Bachelor's Degree in Computer Science",
+        "graduated": "April 2015",
+        "description": "Studied programming languages like Java, C/C++, PHP and designing architectures of system."
+      }
+    ],
+    "work": [
+      {
+        "company": "HCM IT Group",
+        "title": "Mobile App Developer ",
+        "years": "March 2016 - April 2020",
+        "description": "Developed real-time location tracking applications for iOS and Android, developed Bluetooth mobile applications for iOS and Android, Developed RESTFUL APIs for Woocommerce & Social media services, Designed system for Bluetooth based fitness mobile applications for iOS and Android platforms."
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "95%"
+      },
+      {
+        "name": "Objective-C",
+        "level": "93%"
+      },
+      {
+        "name": "Swift",
+        "level": "90%"
+      },
+      {
+        "name": "Kotlin",
+        "level": "70%"
+      },
+      {
+        "name": "Flutter",
+        "level": "80%"
+      },
+      {
+        "name": "React Native",
+        "level": "75%"
+      },
+      {
+        "name": "PHP",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "HTML",
+        "level": "82%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "90%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MySQL",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "PSLocks-Android",
+        "category": "Bluetooth Mobile Application",
+        "image": "pslocks.png",
+        "url": "https://play.google.com/store/apps/details?id=com.pslocks.blelocks&hl=en&gl=US"
+      },
+      {
+        "title": "Go-Taxi",
+        "category": "Taxi Mobile Application",
+        "image": "Go-taxi.png",
+        "url": "https://play.google.com/store/apps/details?id=com.gotaxiride.passenger&hl=en&gl=US"
+      },
+      {
+        "title": "FGH",
+        "category": "Booking Mobile Application",
+        "image": "FGH.png",
+        "url": "https://play.google.com/store/apps/details?id=com.ambitious.fghdoctor"
+      },
+      {
+        "title": "LocalStore(Grocery OR Fruits&Vegitables)",
+        "category": "WooCommerce Mobile Application",
+        "image": "local-store.png",
+        "url": "https://play.google.com/store/apps/details?id=com.ambitious.localstore"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have had the opportunity to work with Phan Tuan on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Phan excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Phan Tuan must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak"
+      }
+    ]
+  }
+}
